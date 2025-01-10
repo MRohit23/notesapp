@@ -187,5 +187,3 @@ export default function App() {
         </Authenticator>
     );
 }
-import { get } from "aws-amplify/api/server";
-import { list } from "aws-amplify/storage";
